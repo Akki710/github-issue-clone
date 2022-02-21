@@ -17,10 +17,10 @@ const Header = () => {
                 <div className="heading-main">
                     <DesktopWindowsIcon />
                     <span>
-                        <a href="#">facebook</a>
+                        <a href="">facebook</a>
                     </span>/
                     <span>
-                        <strong><a href="#">create-react-app</a></strong>
+                        <strong><a href="">create-react-app</a></strong>
                     </span>
                     <span className="btn-oval">Public</span>
                 </div>
