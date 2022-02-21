@@ -1,7 +1,5 @@
 import React from 'react'
-import SearchIcon from '@mui/icons-material/Search';
-import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
-import LoyaltyIcon from '@mui/icons-material/Loyalty';
+
 
 const ActionSection = () => {
     return (
