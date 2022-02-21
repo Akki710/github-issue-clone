@@ -1,5 +1,4 @@
 import React from 'react'
-import styled from '@emotion/styled'
 import DesktopWindowsIcon from '@mui/icons-material/DesktopWindows';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import VisibilityIcon from '@mui/icons-material/Visibility';
